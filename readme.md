@@ -3,6 +3,8 @@
 A desktop 3D modeller written in C++20 with Qt 6 and OpenGL. SketchCraft opens,
 edits, and saves models in the SketchUp 2017 `.skp` format.
 
+![SketchCraft showing a 3D model with a window opening](screenshot.png)
+
 The app includes drawing tools (line, rectangle, circle, polygon, and arc),
 push/pull, move, rotate, scale, materials, groups and components, layers, scenes,
 camera navigation, undo/redo, and image export. Some menu commands are placeholders;
